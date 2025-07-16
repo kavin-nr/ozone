@@ -1,6 +1,6 @@
 import numpy as np
 import csdl_alpha as csdl
-from ozone.general import check_if_string, variablize, check_if_bool, get_type_string, check_if_method
+from ozone.utils.general import check_if_string, variablize, check_if_bool, get_type_string, check_if_method
 from ozone.collections import States, DynamicParameters, IntegratorOutputs
 from ozone.timespan import TimeSpan
 from ozone.approaches import _Approach
