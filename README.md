@@ -22,7 +22,7 @@ We encourage users to look at the examples:
 # Installation
 For direct installation with all dependencies, run on the terminal or command line
 ```sh
-pip install git+https://github.com/LSDOlab/ozone.git
+pip install git+https://github.com/kavin-nr/ozone.git
 ```
 This should install all required packages.
 If `csdl_alpha` or `modopt` failed to install, try:
